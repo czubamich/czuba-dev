@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "about": "About",
+    "stack": "Stack",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": ".NET Developer · Cloud · AI",
+    "tagline": "Built backends before AI made it easy. Now I use both.",
+    "yearsExp": {
+      "one": "{n} year of experience",
+      "other": "{n} years of experience"
+    },
+    "openToWork": "Open to work",
+    "ctaContact": "Email",
+    "ctaGithub": "GitHub",
+    "ctaLinkedin": "LinkedIn"
+  },
+  "about": {
+    "title": "About",
+    "paragraphs": [
+      "I've been writing .NET backends since 2022 — before LLMs became the default pair programmer. ASP.NET Core, C#, GCP, Kubernetes: learned by doing, not by prompting. That hands-on foundation is what I consider my real edge.",
+      "Not just backend. I've built frontends in React, and in Blazor when staying inside the .NET ecosystem made sense. Enough to close the loop myself — not enough to call myself a frontend specialist.",
+      "Now I work at the intersection of .NET and LLMs — RAG pipelines, agentic workflows, Claude, OpenAI, Gemini. Real engineering background means I know which problems AI actually solves and which ones it just confidently gets wrong."
+    ],
+    "education": {
+      "title": "Education",
+      "items": [
+        {
+          "degree": "M.Sc. Eng.",
+          "field": "Computer Science",
+          "school": "WSB Merito University, Chorzów",
+          "years": "2023–2024"
+        },
+        {
+          "degree": "B.Sc. Eng.",
+          "field": "Biomedical Engineering",
+          "school": "Silesian University of Technology",
+          "years": "2018–2022"
+        }
+      ]
+    }
+  },
+  "stack": {
+    "title": "Stack",
+    "lead": "What I actually use day-to-day.",
+    "groups": {
+      "backend": "Backend & .NET",
+      "data": "Data",
+      "cloud": "Cloud & DevOps",
+      "frontend": "Frontend",
+      "ai": "AI & LLM"
+    },
+    "exPca": "ex-PCA"
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Email is fastest. Checkout my GitHub and LinkedIn too.",
+    "email": "Email",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "copy": "Copy",
+    "copied": "Copied"
+  }
+}

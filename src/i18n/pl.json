@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "about": "O mnie",
+    "stack": "Stack",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "role": ".NET Developer · Cloud · AI",
+    "tagline": "Pisałem backendy zanim AI to ułatwiło. Teraz robię jedno i drugie.",
+    "yearsExp": {
+      "one": "{n} rok doświadczenia",
+      "few": "{n} lata doświadczenia",
+      "many": "{n} lat doświadczenia",
+      "other": "{n} lat doświadczenia"
+    },
+    "openToWork": "Otwarty na rozmowy",
+    "ctaContact": "Email",
+    "ctaGithub": "GitHub",
+    "ctaLinkedin": "LinkedIn"
+  },
+  "about": {
+    "title": "O mnie",
+    "paragraphs": [
+      "Piszę backendy w .NET od 2022 roku — zanim LLM-y stały się domyślnym pair programmerem. ASP.NET Core, C#, GCP, Kubernetes: nauczyłem się przez robienie, nie przez promptowanie. To realne doświadczenie uważam za swój prawdziwy atut.",
+      "Nie tylko backend. Pisałem frontendy w React, a gdy projekt tego wymagał — w Blazorze, żeby zostać w ekosystemie .NET. Na tyle żeby zamknąć pętlę samodzielnie, nie na tyle żeby nazywać się frontend specialistem.",
+      "Teraz działam na styku .NET i LLM-ów — RAG, agentowe workflowy, Claude, OpenAI, Gemini. Realne zaplecze inżynierskie oznacza, że wiem które problemy AI naprawdę rozwiązuje, a które tylko pewnie kłamie."
+    ],
+    "education": {
+      "title": "Wykształcenie",
+      "items": [
+        {
+          "degree": "Mgr inż.",
+          "field": "Computer Science",
+          "school": "Uniwersytet WSB Merito Chorzów",
+          "years": "2023–2024"
+        },
+        {
+          "degree": "Inż.",
+          "field": "Inżynieria Biomedyczna",
+          "school": "Politechnika Śląska",
+          "years": "2018–2022"
+        }
+      ]
+    }
+  },
+  "stack": {
+    "title": "Stack",
+    "lead": "Narzędzia, z którymi pracuję na co dzień.",
+    "groups": {
+      "backend": "Backend & .NET",
+      "data": "Bazy i dane",
+      "cloud": "Cloud & DevOps",
+      "frontend": "Frontend",
+      "ai": "AI & LLM"
+    },
+    "exPca": "ex-PCA"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Najszybciej złapiesz mnie mailem. Jestem też na GitHubie i LinkedInie.",
+    "email": "E-mail",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "copy": "Kopiuj",
+    "copied": "Skopiowano"
+  }
+}
