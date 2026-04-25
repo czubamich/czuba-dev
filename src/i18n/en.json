@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "about": "About",
+    "offer": "Services",
+    "process": "Process",
+    "stack": "Stack",
+    "contact": "Contact"
+  },
+  "hero": {
+    "role": ".NET · Backend · Cloud · AI",
+    "tagline": "I build backends and integrations that solve a specific business problem. From architecture to production deployment.",
+    "location": "Katowice area, PL",
+    "yearsExp": {
+      "one": "{n} year of experience",
+      "other": "{n} years of experience"
+    },
+    "ctaContact": "Let's talk",
+    "ctaLinkedin": "LinkedIn"
+  },
+  "about": {
+    "title": "About",
+    "p1": "Backend developer since 2022. Focused on .NET, cloud architecture, and AI integrations — areas where technical decisions directly shape how a product performs.",
+    "p2": "I work independently, directly with clients — no agencies, no middlemen. I take projects from requirements analysis through architecture to production deployment and handoff."
+  },
+  "offer": {
+    "title": "Services",
+    "lead": "I work as an independent developer. I collaborate with companies and startups in three models:",
+    "items": {
+      "b2b": {
+        "title": "B2B Contract",
+        "description": "Long-term B2B engagement. Backend, cloud, integrations — as an external developer on your team."
+      },
+      "project": {
+        "title": "Project Delivery",
+        "description": "I build products from scratch to deployment. Analysis, architecture, code, delivery — no need to build your own team."
+      },
+      "ai": {
+        "title": "AI Integrations",
+        "description": "LLM implementation in existing systems. RAG, agentic workflows, OpenAI / Claude / Gemini — with real engineering behind it, not prompt engineering."
+      }
+    }
+  },
+  "process": {
+    "title": "Process",
+    "lead": "Four steps from first email to running code in production.",
+    "items": {
+      "talk": {
+        "title": "Talk",
+        "description": "30 minutes — you describe the problem, I ask the right questions. No commitment, no sales pressure."
+      },
+      "estimate": {
+        "title": "Estimate",
+        "description": "You get scope, timeline and cost. Fixed price or daily rate — whichever fits the project better."
+      },
+      "build": {
+        "title": "Build",
+        "description": "Weekly iterations. You see progress as it happens, we adjust direction when requirements shift."
+      },
+      "deploy": {
+        "title": "Deploy",
+        "description": "Code shipped to production, documentation, handoff to your team. Post-launch support per agreement."
+      }
+    }
+  },
+  "stack": {
+    "title": "Stack",
+    "lead": "A proven toolset — chosen for the project, not for the CV.",
+    "groups": {
+      "backend": "Backend & .NET",
+      "data": "Data",
+      "cloud": "Cloud & DevOps",
+      "frontend": "Frontend",
+      "ai": "AI & LLM"
+    },
+    "exPca": "ex-GCP PCA",
+    "exPcaTitle": "Google Cloud Professional Cloud Architect (certification expired)"
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Describe the project. I'll reply within 24 h.",
+    "cta": "Send email",
+    "email": "Email",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy policy",
+    "close": "Close",
+    "taxId": "VAT ID",
+    "regon": "REGON",
+    "phone": "Tel."
+  },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "Last updated: April 2026",
+    "sections": {
+      "controller": {
+        "title": "Data controller",
+        "body": "The data controller is Michael Czuba. Contact: contact@czuba.dev."
+      },
+      "scope": {
+        "title": "Scope of data",
+        "body": "This site uses no cookies, collects no analytics, and does not profile visitors. The only data I receive is what you voluntarily send via email or LinkedIn message — sender address and message content."
+      },
+      "purpose": {
+        "title": "Purpose and legal basis",
+        "body": "I process data solely to respond to your inquiry and, if you decide to engage, to perform our agreement. Legal basis: GDPR Article 6(1)(b) and (f) — performance of a contract / legitimate interest in business correspondence."
+      },
+      "retention": {
+        "title": "Retention period",
+        "body": "I keep correspondence until the matter is closed and for 6 months after the last contact. Project-related data — for the period required by tax law (up to 5 years) or less, depending on the contract."
+      },
+      "rights": {
+        "title": "Your rights",
+        "body": "You have the right to access, rectify, erase, restrict processing, object to processing, and port your data. To exercise these rights, write to contact@czuba.dev."
+      },
+      "sharing": {
+        "title": "Sharing",
+        "body": "I do not sell or share data with third parties. Exception: email service providers as processors within the necessary technical scope."
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+.switcher {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  padding: 0.3rem 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: color-mix(in oklch, var(--bg-elev) 50%, transparent);
+}
+
+.item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.button,
+.active {
+  padding: 0.15rem 0.3rem;
+  color: var(--text-dim);
+  transition: color 0.2s ease;
+  border-radius: 3px;
+}
+
+.button:hover {
+  color: var(--text-muted);
+}
+
+.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.sep {
+  margin: 0 0.15rem;
+  color: var(--text-dim);
+}

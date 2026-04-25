@@ -1,0 +1,115 @@
+.contact {
+  border-top: 1px solid var(--border);
+}
+
+.inner {
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+  align-items: flex-start;
+}
+
+.title {
+  font-size: 0.9rem;
+  font-family: var(--font-mono);
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.title::before {
+  content: '// ';
+  opacity: 0.5;
+}
+
+.lead {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 40rem;
+  margin-top: -0.75rem;
+  line-height: 1.6;
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 1rem 1.5rem;
+  background: var(--accent);
+  color: oklch(15% 0.01 var(--hue));
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  font-weight: 600;
+  font-size: 1rem;
+  letter-spacing: -0.01em;
+  transition: transform 0.15s ease, background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 0 0 0 var(--accent-soft);
+}
+
+.cta:hover {
+  background: var(--accent-hover);
+  border-color: var(--accent-hover);
+  transform: translateY(-1px);
+  box-shadow: 0 8px 24px -10px var(--accent);
+}
+
+.ctaText {
+  font-size: 1rem;
+}
+
+.ctaEmail {
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  padding-left: 0.85rem;
+  margin-left: 0.15rem;
+  border-left: 1px solid color-mix(in oklch, oklch(15% 0.01 var(--hue)) 35%, transparent);
+  opacity: 0.85;
+}
+
+.socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.social {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.65rem 1rem;
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--bg-card);
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, transform 0.15s ease;
+}
+
+.social:hover {
+  color: var(--accent);
+  border-color: var(--accent-edge);
+  background: var(--accent-soft);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 520px) {
+  .cta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.45rem;
+    padding: 0.95rem 1.15rem;
+    width: 100%;
+  }
+  .ctaEmail {
+    border-left: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+  .social {
+    padding: 0.55rem 0.85rem;
+  }
+}

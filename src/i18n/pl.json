@@ -1,0 +1,126 @@
+{
+  "nav": {
+    "about": "O mnie",
+    "offer": "Oferta",
+    "process": "Proces",
+    "stack": "Stack",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "role": ".NET · Backend · Cloud · AI",
+    "tagline": "Buduję backend i integracje, które rozwiązują konkretny problem biznesowy. Od architektury po wdrożenie produkcyjne.",
+    "location": "Śląsk, PL",
+    "yearsExp": {
+      "one": "{n} rok doświadczenia",
+      "few": "{n} lata doświadczenia",
+      "many": "{n} lat doświadczenia",
+      "other": "{n} lat doświadczenia"
+    },
+    "ctaContact": "Porozmawiajmy",
+    "ctaLinkedin": "LinkedIn"
+  },
+  "about": {
+    "title": "O mnie",
+    "p1": "Programuję backendowo od 2022. Skupiam się na .NET, architekturach chmurowych i integracjach AI — obszarach gdzie decyzje techniczne mają bezpośredni wpływ na działanie produktu.",
+    "p2": "Pracuję jako niezależny developer — bezpośrednio z klientem, bez agencji i pośredników. Projekty prowadzę od analizy wymagań przez architekturę po wdrożenie na produkcję i przekazanie kodu."
+  },
+  "offer": {
+    "title": "Oferta",
+    "lead": "Działam jako niezależny programista. Współpracuję z firmami i startupami w trzech modelach:",
+    "items": {
+      "b2b": {
+        "title": "Kontrakt B2B",
+        "description": "Długoterminowa współpraca w modelu B2B. Backend, cloud, integracje — jako zewnętrzny developer w Twoim zespole."
+      },
+      "project": {
+        "title": "Realizacja projektu",
+        "description": "Buduję produkt od zera do wdrożenia. Analiza, architektura, kod, deployment — bez potrzeby budowania własnego zespołu."
+      },
+      "ai": {
+        "title": "Integracje AI",
+        "description": "Wdrożenie LLM w istniejący system. RAG, agentowe workflowy, integracje z OpenAI / Claude / Gemini — z realnym zapleczem inżynierskim, nie prompt engineeringiem."
+      }
+    }
+  },
+  "process": {
+    "title": "Proces",
+    "lead": "Cztery kroki od pierwszego maila do działającego kodu na produkcji.",
+    "items": {
+      "talk": {
+        "title": "Rozmowa",
+        "description": "30 minut — opisujesz problem, dopytuję o szczegóły. Bez zobowiązań, bez sprzedażowej presji."
+      },
+      "estimate": {
+        "title": "Wycena",
+        "description": "Dostajesz zakres, harmonogram i koszt. Stała kwota albo stawka dzienna — co lepiej pasuje do projektu."
+      },
+      "build": {
+        "title": "Praca",
+        "description": "Iteracje co tydzień. Widzisz postęp na bieżąco, korygujemy kierunek jeśli wymagania się zmienią."
+      },
+      "deploy": {
+        "title": "Wdrożenie",
+        "description": "Kod na produkcję, dokumentacja, przekazanie zespołowi. Wsparcie po zakończeniu wg ustaleń."
+      }
+    }
+  },
+  "stack": {
+    "title": "Stack",
+    "lead": "Sprawdzony zestaw narzędzi — dobierany do projektu, nie do CV.",
+    "groups": {
+      "backend": "Backend & .NET",
+      "data": "Bazy i dane",
+      "cloud": "Cloud & DevOps",
+      "frontend": "Frontend",
+      "ai": "AI & LLM"
+    },
+    "exPca": "ex-GCP PCA",
+    "exPcaTitle": "Google Cloud Professional Cloud Architect (certyfikat wygasł)"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "lead": "Opisz projekt. Odpiszę w 24 h.",
+    "cta": "Napisz e-mail",
+    "email": "E-mail",
+    "linkedin": "LinkedIn",
+    "github": "GitHub"
+  },
+  "footer": {
+    "rights": "Wszystkie prawa zastrzeżone.",
+    "privacy": "Polityka prywatności",
+    "close": "Zamknij",
+    "taxId": "NIP",
+    "regon": "REGON",
+    "phone": "Tel."
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "updated": "Ostatnia aktualizacja: kwiecień 2026",
+    "sections": {
+      "controller": {
+        "title": "Administrator danych",
+        "body": "Administratorem danych jest Michael Czuba. Kontakt: contact@czuba.dev."
+      },
+      "scope": {
+        "title": "Zakres danych",
+        "body": "Strona nie używa cookies, nie zbiera danych analitycznych ani nie profiluje odwiedzających. Jedyne dane, jakie otrzymuję, to te które prześlesz dobrowolnie e-mailem lub wiadomością LinkedIn — adres nadawcy i treść korespondencji."
+      },
+      "purpose": {
+        "title": "Cel i podstawa prawna",
+        "body": "Dane przetwarzam wyłącznie w celu odpowiedzi na zapytanie i — jeśli zdecydujesz się na współpracę — wykonania umowy. Podstawa: art. 6 ust. 1 lit. b oraz f RODO (wykonanie umowy / uzasadniony interes administratora w prowadzeniu korespondencji biznesowej)."
+      },
+      "retention": {
+        "title": "Okres przechowywania",
+        "body": "Korespondencję przechowuję do zakończenia tematu i przez 6 miesięcy po ostatnim kontakcie. Dane projektowe — przez okres wymagany przepisami podatkowymi (do 5 lat) lub krócej, jeśli umowa stanowi inaczej."
+      },
+      "rights": {
+        "title": "Twoje prawa",
+        "body": "Masz prawo do dostępu do swoich danych, sprostowania, usunięcia, ograniczenia przetwarzania, sprzeciwu oraz przeniesienia danych. Aby skorzystać z tych praw, napisz na contact@czuba.dev."
+      },
+      "sharing": {
+        "title": "Udostępnianie",
+        "body": "Nie sprzedaję ani nie udostępniam danych osobom trzecim. Wyjątek: dostawcy poczty (np. operator skrzynki e-mail) jako podmioty przetwarzające w niezbędnym zakresie technicznym."
+      }
+    }
+  }
+}
